@@ -36,4 +36,4 @@ jupyter notebook
 2. Open ```sales_analysis.ipynb```
 
 ## Structure
-This project implies the use of <b>if-else</b> condition for grading logic. The grading logic is encapsuled inside a function displaying the practical use of knowledge gained on functions
+In this project I did basic exploratory data analysis for the sales data provided. We use <b>Pandas</b> library for <b>importing the data</b>, <b>checking the shape of the data</b>, <b>checking the distribution of the values</b> and then perofrmed analysis on it with basic visualizations. 
