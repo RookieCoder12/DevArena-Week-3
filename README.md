@@ -29,11 +29,18 @@ pip install -r requirements.txt
 
 ### Running the Project
 
-1. Run jupyter notebook:
+#### Running the Python Notebook
+    1. Run jupyter notebook:
+    ```zsh
+    jupyter notebook
+    ```
+    2. Open ```sales_analysis.ipynb```
+
+#### Running the Python Script
+Execute the main script:
 ```zsh
-jupyter notebook
+python sales_analysis.ipynb
 ```
-2. Open ```sales_analysis.ipynb```
 
 ## Structure
 In this project I did basic exploratory data analysis for the sales data provided. We use <b>Pandas</b> library for <b>importing the data</b>, <b>checking the shape of the data</b>, <b>checking the distribution of the values</b> and then perofrmed analysis on it with basic visualizations. 
