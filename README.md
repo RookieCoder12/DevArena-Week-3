@@ -19,7 +19,7 @@ Ensure you have Python 3.x installed on your system.
 ### Cloning Repository
 Cloning the repository:
 ```zsh
-git clone https://github.com/RookieCoder12/DevArena-Week-2.git
+git clone https://github.com/RookieCoder12/DevArena-Week-3.git
 ```
 
 ### Installation
