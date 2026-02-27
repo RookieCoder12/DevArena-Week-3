@@ -8,6 +8,7 @@ This is the Week 3 project for Developers Arena, containing the analysis of sale
 - `README.md` - This file
 - `requirements.txt` - Contains the python libraries that need to be installed
 - `sales_analysis.ipynb` - Python notebook with exploratory data analysis for the sales data
+- `sales_analysis.py` - Python script with exploratory data analysis for the sales data
 - `sales_data.csv` - Data source file
 
 ## Getting Started
@@ -30,11 +31,11 @@ pip install -r requirements.txt
 ### Running the Project
 
 #### Running the Python Notebook
-    1. Run jupyter notebook:
-    ```zsh
-    jupyter notebook
-    ```
-    2. Open ```sales_analysis.ipynb```
+1. Run jupyter notebook:
+```zsh
+jupyter notebook
+```
+2. Open ```sales_analysis.ipynb```
 
 #### Running the Python Script
 Execute the main script:
